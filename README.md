@@ -34,6 +34,9 @@ An image ` https://public-assets.develops.today/blog/how-to-make-your-healthcare
 **Severity:** High  
 **Module:** Blog → HIPAA Compliance Article  
 **Environment:** [https://develops.today/blog/how-to-make-your-healthcare-application-hipaa-compliant](https://develops.today/blog/how-to-make-your-healthcare-application-hipaa-compliant)  
+- System: Windows 10 Pro 22H2, 
+- Browther: Chrome Version 136.0.7103.93 (Official Build) (64-bit)
+
 
 ---
 
